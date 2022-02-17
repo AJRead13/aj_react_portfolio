@@ -4,13 +4,14 @@ import HypeMovie from '../../assets/images/hypemovie.png';
 import PassGen from '../../assets/images/passwordGen.png';
 import noteTaker from '../../assets/images/noteTaker.jpg';
 import Jate from '../../assets/images/textScreenshot.jpg';
+import '../styles/Project.css'
 
 export default function Blog() {
   return (
     <div>
       <h1>Project Page</h1>
       <section className="project-windows">
-      <article id="bigOne" className="bodies">
+      <article className="bodies bigOne">
         <figure className="card">
           <h2 className="card-head">Movie Hype Generator</h2>
           <div className="card-contents"><a href="https://ajread13.github.io/Movie-Hype-Generator/"><img id="hypeMovie"

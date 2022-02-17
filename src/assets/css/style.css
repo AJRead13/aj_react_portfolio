@@ -94,11 +94,11 @@ nav ul li label {
 .bodies {
   flex: 0 1 48%;
 }
-#bigOne {
+.bigOne {
   flex: 0 1 85%;
   margin: 10px; 
 }
-#horiseon {
+.horiseon {
   width: 90%;
   height: auto;
 }

@@ -1,0 +1,48 @@
+.project-windows  {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex: 0 0 70%;
+  }
+  .bodies {
+    flex: 0 1 48%;
+  }
+
+  .bigOne {
+    flex: 0 1 85%;
+    margin: 10px; 
+  }
+  .horiseon {
+    width: 90%;
+    height: auto;
+  }
+  .space  {
+    width: 65%;
+  }
+  .card {
+    flex: 0 1 auto;
+    padding: 5px;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
+  }
+  .card-head  {
+    position: relative;
+    bottom: 40px;
+    border-style: solid;
+    border-color:blanchedalmond;
+    border-width: 5px;
+    background-color: rgb(6, 92, 173);
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
+  }
+  /*cursor effects*/
+  .card:hover,
+  .card:hover  .card-head  {
+    box-shadow: 3px 3px 8px rgb(53, 248, 138);
+  }
