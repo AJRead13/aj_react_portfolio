@@ -1,9 +1,18 @@
 import React from 'react';
+import StarShip from '../../assets/images/starship.jpg'
+import '../styles/Home.css' 
 
 export default function Home() {
   return (
-    <div>
-      <h1>Home Page</h1>
+    <div className='container'>
+      <h1 className='title'>Home Page</h1>
+      <article id="first">
+      <figure className="kaiden">
+        <img className="starShip" src={StarShip} alt="startship hull"/>
+        <figcaption className="passage"> "To improve is to change; to be perfect is to change often." -Winston Churchill
+        </figcaption>
+      </figure>
+    </article>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi

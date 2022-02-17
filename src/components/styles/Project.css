@@ -4,16 +4,18 @@
     flex-wrap: wrap;
     justify-content: space-between;
     flex: 0 0 70%;
+    max-width: 75%;
+    max-height: auto;
   }
   .bodies {
     flex: 0 1 48%;
   }
 
   .bigOne {
-    flex: 0 1 85%;
+    flex: 0 1 60%;
     margin: 10px; 
   }
-  .horiseon {
+  .hypeMovie {
     width: 90%;
     height: auto;
   }
@@ -30,6 +32,7 @@
     height: auto;
     border-radius: 8px;
     transition: all 0.5s ease-in-out;
+    margin: 20px;
   }
   .card-head  {
     position: relative;
@@ -40,6 +43,14 @@
     background-color: rgb(6, 92, 173);
     border-radius: 8px;
     transition: all 0.5s ease-in-out;
+  }
+  .jate {
+      max-width: 100%;
+      max-height: auto;
+  }
+  .repoLink {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: darkgreen;
   }
   /*cursor effects*/
   .card:hover,
