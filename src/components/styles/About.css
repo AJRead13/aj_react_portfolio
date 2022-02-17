@@ -1,0 +1,15 @@
+.kaiden {
+    width: 50%;
+  }
+
+.potrait  {
+    width: 75%;
+    height: auto;
+    opacity: .75;
+    margin: 15px;
+    padding: 15px;
+    background-color: blanchedalmond;
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+  }
