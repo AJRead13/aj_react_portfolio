@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Project from './pages/Project';
 import Contact from './pages/Contact';
+import './styles/Container.css'
 
 
 export default function PortfolioContainer() {
@@ -26,7 +27,7 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div className='bigChungus'>
       
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       

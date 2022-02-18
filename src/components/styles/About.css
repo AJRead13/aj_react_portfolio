@@ -38,6 +38,7 @@
   border: ridge;
   border-color: blanchedalmond;
   align-items: center;
+  display:inline-block;
 }
 
 .link {

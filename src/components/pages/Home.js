@@ -1,6 +1,5 @@
 import React from 'react';
-// import StarShip from '../../assets/images/starship.jpg'
-import DesertSun from '../../assets/images/desertSun.jpg'
+
 import Eclipse from '../../assets/images/eclipse.jpg'
 import '../styles/Home.css' 
 
