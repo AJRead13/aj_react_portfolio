@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aj_react_portfolio/static/css/main.3ec8ecee.css",
+    "main.js": "/aj_react_portfolio/static/js/main.c4bc70d9.js",
+    "static/media/me22.jpg": "/aj_react_portfolio/static/media/me22.622377fd12887d05d56f.jpg",
+    "static/media/eclipse.jpg": "/aj_react_portfolio/static/media/eclipse.b23cef12f4dac0a19a1e.jpg",
+    "static/media/startrekQuiz.png": "/aj_react_portfolio/static/media/startrekQuiz.a4cffe969fd43db1f4f9.png",
+    "static/media/hypemovie.png": "/aj_react_portfolio/static/media/hypemovie.b7dca944b29a4c662251.png",
+    "static/media/textScreenshot.jpg": "/aj_react_portfolio/static/media/textScreenshot.5a75e7a2aa1a098f7a71.jpg",
+    "static/media/noteTaker.jpg": "/aj_react_portfolio/static/media/noteTaker.244b90a3f3fce0074bc6.jpg",
+    "static/media/passwordGen.png": "/aj_react_portfolio/static/media/passwordGen.315d85cfd755102406a6.png",
+    "index.html": "/aj_react_portfolio/index.html",
+    "main.3ec8ecee.css.map": "/aj_react_portfolio/static/css/main.3ec8ecee.css.map",
+    "main.c4bc70d9.js.map": "/aj_react_portfolio/static/js/main.c4bc70d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec8ecee.css",
+    "static/js/main.c4bc70d9.js"
+  ]
+}
