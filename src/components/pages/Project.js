@@ -61,6 +61,9 @@ export default function Blog() {
       </article>
       
     </section>
+    <footer className='footer'>
+    © 2022 Andrew Read
+  </footer>
     </div>
   );
 }

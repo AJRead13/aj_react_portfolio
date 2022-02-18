@@ -1,9 +1,9 @@
-.kaiden {
+/* .kaiden {
     width: 50%;
-  }
+  } */
 
 .potrait  {
-    width: 50%;
+    width: 75%;
     height: auto;
     opacity: .75;
     margin: 15px;
@@ -13,3 +13,38 @@
     border-color: black;
     border-width: 5px;
   }
+
+  .main {
+    background-color: rgb(80, 91, 102);
+    margin: 15px;
+    color:bisque;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 5%;
+}
+.footer {
+  margin-top: 350px;
+}
+.pages {
+  margin: 10px;
+
+}
+
+.pages {
+  margin: 15px;
+  /* padding: 5px; */
+  background: black;
+  border: ridge;
+  border-color: blanchedalmond;
+  align-items: center;
+}
+
+.link {
+  margin: 5px;
+  padding: 5px;
+  font: blanchedalmond;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+}

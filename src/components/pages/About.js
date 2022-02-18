@@ -4,7 +4,7 @@ import '../styles/About.css'
 
 export default function About() {
   return (
-    <div className='container'>
+    <div className='main container'>
       <h1 className='title'>About Me</h1>
       <article id="first">
       <figure className="kaiden">
@@ -14,8 +14,18 @@ export default function About() {
       </figure>
     </article>
       <p>
-        Full Stack Web Dev, former U.S. Army veteran, gamer, and family man.  
+        Full Stack Web Dev, former U.S. Army veteran, gamer, and family man. If you would like to see my 
+        work experience and background, please take a look through my sites and resume.
       </p>
+      <ul className='pages'>
+        <li className='link'> <a href="https://github.com/AJRead13">Github</a></li>
+        <li className='link'> <a href='https://drive.google.com/file/d/1cnJAZeeEYy_jG81gxgPUwzZ6j0keXeAE/view?usp=sharing'>Resume</a></li>
+        <li className='link'> <a href="https://www.linkedin.com/in/andrew-read-85887494/">LinkedIn</a> </li>
+      </ul>
+
+      <footer className='footer'>
+    © 2022 Andrew Read
+  </footer>
 
     </div>
   );

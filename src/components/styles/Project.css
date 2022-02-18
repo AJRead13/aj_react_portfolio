@@ -57,3 +57,8 @@
   .card:hover  .card-head  {
     box-shadow: 3px 3px 8px rgb(53, 248, 138);
   }
+
+  .footer {
+    margin-top: 350px;
+    text-align: center;
+}

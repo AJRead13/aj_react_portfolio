@@ -1,0 +1,27 @@
+.main {
+    background-color: rgb(80, 91, 102);
+    margin: 15px;
+    color:bisque;
+}
+
+.footer {
+    margin-top: 350px;
+}
+
+.contactInfo {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
+
+.button {
+    width: 75px;
+}
+
+.labelTitle {
+    font-size: 20px;
+    margin: 5px;
+
+}
