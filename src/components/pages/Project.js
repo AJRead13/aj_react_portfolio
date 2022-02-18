@@ -4,6 +4,7 @@ import HypeMovie from '../../assets/images/hypemovie.png';
 import PassGen from '../../assets/images/passwordGen.png';
 import noteTaker from '../../assets/images/noteTaker.jpg';
 import Jate from '../../assets/images/textScreenshot.jpg';
+import Cloud from '../../assets/images/cloud.jpg'
 import '../styles/Project.css'
 
 export default function Blog() {
@@ -33,10 +34,10 @@ export default function Blog() {
       </article>
       <article className="bodies">
         <figure className="card">
-          <h2 className="card-head">Star Trek Quiz</h2>
-          <div className="card-contents"><a href="https://ajread13.github.io/Quiz_Game_Star_Trek/"><img className="space" src={StarTrek} alt="Star Trek Quiz ending"/></a>
-            <p> A short quiz to test your Star Trek Knowledge</p>
-            <a className="trekRepo repoLink" href="https://github.com/AJRead13/Quiz_Game_Star_Trek">Repository</a>
+          <h2 className="card-head">E-Commerce BackEnd</h2>
+          <div className="card-contents"><a href="https://drive.google.com/file/d/197lDfoR0rLQoAYaYMfNfk0PB5Ce3uGc3/view?usp=sharing"><img className="eCommerce" src={Cloud} alt="eCommerce"/></a>
+            <p> An application used to track a store's ecommerce on the backend</p>
+            <a className="trekRepo repoLink" href="https://github.com/AJRead13/E-Commerce-Store-BackEnd">Repository</a>
           </div>
         </figure>
       </article>
