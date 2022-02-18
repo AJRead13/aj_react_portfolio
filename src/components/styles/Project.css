@@ -22,8 +22,15 @@
   .space  {
     width: 65%;
   }
+  .eCommerce  {
+    width: 50%;
+  }
+  .employee {
+    width: 90%;
+  }
   .card {
     flex: 0 1 auto;
+    background-color: darkslategrey;
     padding: 5px;
     text-align: center;
     border-style: solid;
@@ -33,6 +40,9 @@
     border-radius: 8px;
     transition: all 0.5s ease-in-out;
     margin: 20px;
+  }
+  .card-contents  {
+    background-color: darkslategrey;
   }
   .card-head  {
     position: relative;
@@ -49,8 +59,10 @@
       max-height: auto;
   }
   .repoLink {
-      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-      color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+      /* color: darkgreen; */
+      font-size: 22px;
   }
   /*cursor effects*/
   .card:hover,

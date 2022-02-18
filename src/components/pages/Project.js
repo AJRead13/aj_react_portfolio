@@ -1,10 +1,10 @@
 import React from 'react';
-import StarTrek from '../../assets/images/startrekQuiz.png';
 import HypeMovie from '../../assets/images/hypemovie.png';
 import PassGen from '../../assets/images/passwordGen.png';
 import noteTaker from '../../assets/images/noteTaker.jpg';
 import Jate from '../../assets/images/textScreenshot.jpg';
 import Cloud from '../../assets/images/cloud.jpg'
+import TeamProfile from '../../assets/images/teamProfile.jpg'
 import '../styles/Project.css'
 
 export default function Blog() {
@@ -57,6 +57,16 @@ export default function Blog() {
               alt="close up of starship hull"/>
             <p>A simple text editor that one can install.</p>
             <a className="jateRepo repoLink" href="https://github.com/AJRead13/Text_Editor_Xtreme">Repository</a>
+          </div>
+        </figure>
+      </article>
+      <article className="bodies">
+        <figure className="card">
+          <h2 className="card-head">Employee Database</h2>
+          <div className="card-contents"><img className="employee" src={TeamProfile}
+              alt="close up of starship hull"/>
+            <p>An application for tracking and registering employees</p>
+            <a className="employee repoLink" href="https://github.com/AJRead13/Employee_Tracker">Repository</a>
           </div>
         </figure>
       </article>
