@@ -15,8 +15,7 @@ export default function Home() {
       </figure>
     </article>
       <p>
-       Welcome to the React Porfolio of Andrew Read.  Please use the navigation to learn more about 
-       me and my work.
+       Experienced professional with a a certicate in Full Stack Web Development.  Able to work in both front and back end to develop interactive web applications using JavaScript, SQL, React.js, MongoDB, etc.  I have spent over a decade in various management positions and have experience in team building as well as training.
       </p>
       <footer className='footer'>
     © 2022 Andrew Read

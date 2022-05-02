@@ -23,6 +23,11 @@ export default function Contact() {
       {errors.age && <p>Please enter number for age.</p>}
       <input type="submit" />
     </form>
+
+    {/* <div className='contactInfo'>
+      <h2>Email: andrew.read.dev@gmail.com</h2>
+      
+    </div> */}
   
 
 <footer className='footer'>
