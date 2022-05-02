@@ -19,7 +19,7 @@ export default function About() {
       </p>
       <ul className='pages'>
         <li className='link'> <a href="https://github.com/AJRead13">Github</a></li>
-        <li className='link'> <a href='https://drive.google.com/file/d/1cnJAZeeEYy_jG81gxgPUwzZ6j0keXeAE/view?usp=sharing'>Resume</a></li>
+        <li className='link'> <a href='https://docs.google.com/document/d/1XifQh1n1ZVAA9dRmn5-8M-dwS4QwfPg_/edit?usp=sharing&ouid=109577356031493900286&rtpof=true&sd=true'>Resume</a></li>
         <li className='link'> <a href="https://www.linkedin.com/in/andrew-read-85887494/">LinkedIn</a> </li>
       </ul>
 
