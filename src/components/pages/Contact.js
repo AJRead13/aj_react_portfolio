@@ -14,6 +14,7 @@ export default function Contact() {
   return (
     <div className='main container'>
 
+
       <h1 className='title'>Contact Page</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
       <input placeholder='Name' {...register('firstName')} />
@@ -24,14 +25,11 @@ export default function Contact() {
       <input type="submit" />
     </form>
 
-    {/* <div className='contactInfo'>
-      <h2>Email: andrew.read.dev@gmail.com</h2>
-      
-    </div> */}
+ 
   
 
 <footer className='footer'>
-    © 2022 Andrew Read
+    © 2022 Andrew Read  Email: andrew.read.dev@gmail.com
   </footer>
     </div>
   );
