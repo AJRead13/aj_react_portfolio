@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/aj_react_portfolio/static/css/main.76b9f061.css",
-    "main.js": "/aj_react_portfolio/static/js/main.f9203794.js",
-    "static/media/cloud.jpg": "/aj_react_portfolio/static/media/cloud.348d98d31f868404a4ab.jpg",
-    "static/media/me22.jpg": "/aj_react_portfolio/static/media/me22.622377fd12887d05d56f.jpg",
-    "static/media/eclipse.jpg": "/aj_react_portfolio/static/media/eclipse.b23cef12f4dac0a19a1e.jpg",
-    "static/media/teamProfile.jpg": "/aj_react_portfolio/static/media/teamProfile.05c8a9ce048d649509a8.jpg",
-    "static/media/hypemovie.png": "/aj_react_portfolio/static/media/hypemovie.b7dca944b29a4c662251.png",
-    "static/media/textScreenshot.jpg": "/aj_react_portfolio/static/media/textScreenshot.5a75e7a2aa1a098f7a71.jpg",
-    "static/media/noteTaker.jpg": "/aj_react_portfolio/static/media/noteTaker.244b90a3f3fce0074bc6.jpg",
-    "static/media/passwordGen.png": "/aj_react_portfolio/static/media/passwordGen.315d85cfd755102406a6.png",
-    "index.html": "/aj_react_portfolio/index.html",
-    "main.76b9f061.css.map": "/aj_react_portfolio/static/css/main.76b9f061.css.map",
-    "main.f9203794.js.map": "/aj_react_portfolio/static/js/main.f9203794.js.map"
+    "main.css": "/andrewsReactPortfolio/static/css/main.76b9f061.css",
+    "main.js": "/andrewsReactPortfolio/static/js/main.3bbf549b.js",
+    "static/media/cloud.jpg": "/andrewsReactPortfolio/static/media/cloud.348d98d31f868404a4ab.jpg",
+    "static/media/me22.jpg": "/andrewsReactPortfolio/static/media/me22.622377fd12887d05d56f.jpg",
+    "static/media/eclipse.jpg": "/andrewsReactPortfolio/static/media/eclipse.b23cef12f4dac0a19a1e.jpg",
+    "static/media/teamProfile.jpg": "/andrewsReactPortfolio/static/media/teamProfile.05c8a9ce048d649509a8.jpg",
+    "static/media/hypemovie.png": "/andrewsReactPortfolio/static/media/hypemovie.b7dca944b29a4c662251.png",
+    "static/media/textScreenshot.jpg": "/andrewsReactPortfolio/static/media/textScreenshot.5a75e7a2aa1a098f7a71.jpg",
+    "static/media/noteTaker.jpg": "/andrewsReactPortfolio/static/media/noteTaker.244b90a3f3fce0074bc6.jpg",
+    "static/media/passwordGen.png": "/andrewsReactPortfolio/static/media/passwordGen.315d85cfd755102406a6.png",
+    "index.html": "/andrewsReactPortfolio/index.html",
+    "main.76b9f061.css.map": "/andrewsReactPortfolio/static/css/main.76b9f061.css.map",
+    "main.3bbf549b.js.map": "/andrewsReactPortfolio/static/js/main.3bbf549b.js.map"
   },
   "entrypoints": [
     "static/css/main.76b9f061.css",
-    "static/js/main.f9203794.js"
+    "static/js/main.3bbf549b.js"
   ]
 }
